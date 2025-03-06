@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shahine Abara
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Github and Linkedin
+- ⚡ Fun fact: Im the truth
